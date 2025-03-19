@@ -1,6 +1,5 @@
 FILE TWO------->> 02
-<<<<<<< HEAD
+
 this is 3rd line by dev-01
-=======
 this is 2nd line by dev-02
->>>>>>> 5a20bf378869b7120e9f4d3da8b2f65c1b1698a0
+
